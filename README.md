@@ -9,7 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E8E8E8&background=26292F&center=true&vCenter=true&width=620&height=50&lines=Karim+Maher;Cybersecurity+Student;Penetration+Testing+Learner;Python+Developer" alt="Karim Maher - Cybersecurity Student"/>
+  <img src="./typing.svg" width="640" alt="Cybersecurity Student - Python Developer - Data Analyst - Penetration Testing Learner"/>
+</div>
+
+<div align="center">
+  <img src="./lab-cards.svg" width="900" alt="Lab and training snapshot"/>
 </div>
 
 ---
@@ -27,15 +31,15 @@
 
 ## Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [HoneyLens](https://github.com/karim-maher-cys/HoneyLens) | Cybersecurity news and threat-intel dashboard | HTML |
-| [CoreCS](https://github.com/karim-maher-cys/CoreCS) | Building the foundation of computing | HTML |
-| [First-Text-Analyzer](https://github.com/karim-maher-cys/First-Text-Analyzer.) | Text analysis tool | Python |
-| [DecodeLabs-Internship](https://github.com/karim-maher-cys/DecodeLabs-Internship.) | Internship projects and tasks | Python |
-| [Data-analysis](https://github.com/karim-maher-cys/Data-analysis-by-bython) | Restaurant data analysis and visualization | Jupyter Notebook |
-| [Big-data-preprocessing](https://github.com/karim-maher-cys/Big-data-hurd-preprocessing-) | Big data preprocessing pipeline | Jupyter Notebook |
-| [streamlit-](https://github.com/karim-maher-cys/streamlit-) | Streamlit web app | Python |
+<div align="center">
+  <a href="https://github.com/karim-maher-cys/HoneyLens"><img src="./proj-honeylens.svg" width="440" alt="HoneyLens"/></a>
+  <a href="https://github.com/karim-maher-cys/CoreCS"><img src="./proj-corecs.svg" width="440" alt="CoreCS"/></a>
+  <a href="https://github.com/karim-maher-cys/First-Text-Analyzer."><img src="./proj-firsttext.svg" width="440" alt="First-Text-Analyzer"/></a>
+  <a href="https://github.com/karim-maher-cys/DecodeLabs-Internship."><img src="./proj-decodelabs.svg" width="440" alt="DecodeLabs-Internship"/></a>
+  <a href="https://github.com/karim-maher-cys/Data-analysis-by-bython"><img src="./proj-dataanalysis.svg" width="440" alt="Data-analysis"/></a>
+  <a href="https://github.com/karim-maher-cys/Big-data-hurd-preprocessing-"><img src="./proj-bigdata.svg" width="440" alt="Big-data-preprocessing"/></a>
+  <a href="https://github.com/karim-maher-cys/streamlit-"><img src="./proj-streamlit.svg" width="440" alt="streamlit-"/></a>
+</div>
 
 More on [my repositories tab](https://github.com/karim-maher-cys?tab=repositories).
 
@@ -52,5 +56,5 @@ More on [my repositories tab](https://github.com/karim-maher-cys?tab=repositorie
 ---
 
 <div align="center">
-  <img src="./corecs-pixels.svg" width="440" alt="CoreCS - Building the foundation of computing"/>
+  <img src="./corecs-pixels.svg" width="900" alt="CoreCS - Building the foundation of computing"/>
 </div>
