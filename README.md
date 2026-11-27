@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/karim-maher1"><img src="https://img.shields.io/badge/karim%20maher-26292F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMiIgeT0iMTguNSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTciIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI%2BaW48L3RleHQ%2BPC9zdmc%2B&logoColor=white" alt="karim maher on LinkedIn"/></a>
-  <a href="mailto:karimmaher140@gmail.com"><img src="https://img.shields.io/badge/karimmaher140%40gmail.com-26292F?style=for-the-badge&logo=gmail&logoColor=white" alt="karimmaher140@gmail.com"/></a>
-  <a href="https://profile.hackthebox.com/profile/01a21a94-d0e8-7290-9bcc-ecc09ac2f3f0"><img src="https://img.shields.io/badge/HTB-26292F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box profile"/></a>
+  <a href="https://www.linkedin.com/in/karim-maher1"><img src="./linkedin.svg" alt="karim maher on LinkedIn"/></a>
+  <a href="mailto:karimmaher140@gmail.com"><img src="./gmail.svg" alt="karimmaher140@gmail.com"/></a>
+  <a href="https://profile.hackthebox.com/profile/01a21a94-d0e8-7290-9bcc-ecc09ac2f3f0"><img src="./htb.svg" alt="Hack The Box profile"/></a>
 </div>
 
 <div align="center">
@@ -17,12 +17,12 @@
 ## Skills & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-26292F?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-26292F?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-26292F?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-26292F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-26292F?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-26292F?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="./python.svg"/>
+  <img src="./kali.svg"/>
+  <img src="./burp.svg"/>
+  <img src="./sql.svg"/>
+  <img src="./linux.svg"/>
+  <img src="./html5.svg"/>
 </p>
 
 ## Projects
