@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/karim-maher1"><img src="./linkedin.svg" alt="karim maher on LinkedIn"/></a>
   <a href="mailto:karimmaher140@gmail.com"><img src="./gmail.svg" alt="karimmaher140@gmail.com"/></a>
   <a href="https://profile.hackthebox.com/profile/01a21a94-d0e8-7290-9bcc-ecc09ac2f3f0"><img src="./htb.svg" alt="Hack The Box profile"/></a>
+  <a href="https://www.youtube.com/@corecs-s3g"><img src="./youtube.svg" alt="CoreCS on YouTube"/></a>
 </div>
 
 <div align="center">
