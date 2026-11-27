@@ -29,11 +29,11 @@
 
 <p>
   <img src="./linux.svg"/>
-  <img src="./networking.svg"/>
-  <img src="./ethical-hacking.svg"/>
+  <img src="./networking.svg?v=2"/>
+  <img src="./ethical-hacking.svg?v=2"/>
   <img src="./kali.svg"/>
   <img src="./nmap.svg"/>
-  <img src="./wireshark.svg"/>
+  <img src="./wireshark.svg?v=2"/>
   <img src="./burp.svg"/>
   <img src="./sql.svg"/>
   <img src="./python.svg"/>
@@ -78,7 +78,7 @@ More on [my repositories tab](https://github.com/karim-maher-cys?tab=repositorie
 </div>
 <div align="center">
   <img src="./stats-streak.svg" width="435" alt="Contribution streak"/>
-  <a href="https://profile.hackthebox.com/profile/01a21a94-d0e8-7290-9bcc-ecc09ac2f3f0"><img src="./htb-card.svg" width="435" alt="Hack The Box - @Black005"/></a>
+  <a href="https://profile.hackthebox.com/profile/01a21a94-d0e8-7290-9bcc-ecc09ac2f3f0"><img src="./htb-card.svg?v=2" width="435" alt="Hack The Box - @Black005"/></a>
 </div>
 
 ---
