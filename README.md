@@ -20,7 +20,7 @@
 ## Currently Learning
 
 <div align="center">
-  <img src="./learning.svg" width="900" alt="Currently learning: Kali, SQL injection, Burp Suite"/>
+  <img src="./learning.svg?v=2" width="900" alt="Currently learning: Kali, SQL injection, Burp Suite"/>
 </div>
 
 ---
