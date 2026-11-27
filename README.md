@@ -28,12 +28,16 @@
 ## Skills & Tools
 
 <p>
-  <img src="./python.svg"/>
+  <img src="./linux.svg"/>
+  <img src="./networking.svg"/>
+  <img src="./ethical-hacking.svg"/>
   <img src="./kali.svg"/>
+  <img src="./nmap.svg"/>
+  <img src="./wireshark.svg"/>
   <img src="./burp.svg"/>
   <img src="./sql.svg"/>
-  <img src="./linux.svg"/>
-  <img src="./html5.svg"/>
+  <img src="./python.svg"/>
+  <img src="./bash.svg"/>
 </p>
 
 ## Projects
@@ -53,6 +57,13 @@
 
 More on [my repositories tab](https://github.com/karim-maher-cys?tab=repositories).
 
+## Latest Writeups
+
+<div align="center">
+  <img src="./writeups-soon.svg" width="405" alt="Writeups - first lab in progress"/>
+</div>
+
+
 ## Roadmap
 
 <div align="center">
@@ -62,11 +73,12 @@ More on [my repositories tab](https://github.com/karim-maher-cys?tab=repositorie
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-maher-cys&show_icons=true&bg_color=1F2227&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=333333" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-maher-cys&layout=compact&bg_color=1F2227&title_color=ffffff&text_color=9f9f9f&border_color=333333" height="160"/>
+  <img src="./stats-overview.svg" width="435" alt="GitHub overview"/>
+  <img src="./stats-langs.svg" width="435" alt="Top languages"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=karim-maher-cys&background=1F2227&ring=e8e8e8&fire=e8e8e8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=777777&border=333333" height="160"/>
+  <img src="./stats-streak.svg" width="435" alt="Contribution streak"/>
+  <a href="https://profile.hackthebox.com/profile/01a21a94-d0e8-7290-9bcc-ecc09ac2f3f0"><img src="./htb-card.svg" width="435" alt="Hack The Box - @Black005"/></a>
 </div>
 
 ---
