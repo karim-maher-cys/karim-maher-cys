@@ -32,13 +32,13 @@
 ## Projects
 
 <div align="center">
-  <a href="https://github.com/karim-maher-cys/HoneyLens"><img src="./proj-honeylens.svg" width="440" alt="HoneyLens"/></a>
-  <a href="https://github.com/karim-maher-cys/CoreCS"><img src="./proj-corecs.svg" width="440" alt="CoreCS"/></a>
-  <a href="https://github.com/karim-maher-cys/First-Text-Analyzer."><img src="./proj-firsttext.svg" width="440" alt="First-Text-Analyzer"/></a>
-  <a href="https://github.com/karim-maher-cys/DecodeLabs-Internship."><img src="./proj-decodelabs.svg" width="440" alt="DecodeLabs-Internship"/></a>
-  <a href="https://github.com/karim-maher-cys/Data-analysis-by-bython"><img src="./proj-dataanalysis.svg" width="440" alt="Data-analysis"/></a>
-  <a href="https://github.com/karim-maher-cys/Big-data-hurd-preprocessing-"><img src="./proj-bigdata.svg" width="440" alt="Big-data-preprocessing"/></a>
-  <a href="https://github.com/karim-maher-cys/streamlit-"><img src="./proj-streamlit.svg" width="440" alt="streamlit-"/></a>
+  <a href="https://github.com/karim-maher-cys/HoneyLens"><img src="./proj-honeylens.svg" width="405" alt="HoneyLens"/></a>
+  <a href="https://github.com/karim-maher-cys/CoreCS"><img src="./proj-corecs.svg" width="405" alt="CoreCS"/></a>
+  <a href="https://github.com/karim-maher-cys/First-Text-Analyzer."><img src="./proj-firsttext.svg" width="405" alt="First-Text-Analyzer"/></a>
+  <a href="https://github.com/karim-maher-cys/DecodeLabs-Internship."><img src="./proj-decodelabs.svg" width="405" alt="DecodeLabs-Internship"/></a>
+  <a href="https://github.com/karim-maher-cys/Data-analysis-by-bython"><img src="./proj-dataanalysis.svg" width="405" alt="Data-analysis"/></a>
+  <a href="https://github.com/karim-maher-cys/Big-data-hurd-preprocessing-"><img src="./proj-bigdata.svg" width="405" alt="Big-data-preprocessing"/></a>
+  <a href="https://github.com/karim-maher-cys/streamlit-"><img src="./proj-streamlit.svg" width="405" alt="streamlit-"/></a>
 </div>
 
 More on [my repositories tab](https://github.com/karim-maher-cys?tab=repositories).
